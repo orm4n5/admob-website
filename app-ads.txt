@@ -1,1 +1,3 @@
-google.com, pub-8655023812889876, DIRECT, f08c47fec0942fa0
+google.com, pub-8655023812889876, DIRECT, f08c47fec0942fa0（推しポモ用）
+google.com, pub-8655023812889876, DIRECT, f08c47fec0942fa0（つもり貯金用）
+google.com, pub-8655023812889876, DIRECT, f08c47fec0942fa0（プロンプトストレージ用）
